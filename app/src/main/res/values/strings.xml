@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_results_map">ResultsMapActivity</string>
+</resources>

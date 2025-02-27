@@ -1,0 +1,11 @@
+cd Downloads
+
+sqlite3 geofence.db
+
+.tables
+
+SELECT * FROM circle;
+
+SELECT * FROM entry_exit;
+
+.exit
